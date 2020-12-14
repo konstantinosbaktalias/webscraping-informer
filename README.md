@@ -1,5 +1,5 @@
 # webscraping-informer
-This is an application in which the the selects a numerical element in a webpage of his choice, select the parameters and based on them he will be informed via email automatically.
+This is an application in which the user selects a numerical element in a webpage of his choice, selects the parameters, and based on them he will be informed via email automatically.
 
 ### Installation
 * ``` git clone https://github.com/konstantinosbaktalias/webscraping-informer.git ```
