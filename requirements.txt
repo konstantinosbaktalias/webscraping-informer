@@ -1,0 +1,6 @@
+matplotlib
+requests
+fastapi
+uvicorn
+psycopg2
+pandas
