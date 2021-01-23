@@ -22,4 +22,4 @@ This is an application in which the user selects a numerical element in a webpag
   * ``` npm run dev ```
   
 ##### Notes
-* You need to Postgresql installed in your machine
+* You need Postgresql installed in your machine
